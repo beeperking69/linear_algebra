@@ -1,6 +1,6 @@
 #include "vector.h"
 
-#include "math.h"
+#include <math.h>
 
 #define X(vec) (vec[0])
 #define Y(vec) (vec[1])
